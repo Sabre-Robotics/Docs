@@ -1,7 +1,6 @@
 # Docs
 
 # Welcome
-### Hello, my name is Jayke, and I created this README so that others can understand what GitHub is, and why we will use it for our robotics team. 
 
 # Resources
 ### Want to learn a little bit of Java, C++, Python? Here are some great resouces that can be easily accessed and are recommended for your use: 
